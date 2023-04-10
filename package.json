@@ -1,0 +1,25 @@
+{
+  "name": "plainsentiment",
+  "version": "1.0.0",
+  "description": "A simple sentiment detector open-source module for node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Nishant Shah",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "node-fetch": "^3.2.6"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nishantshah977/plainsentiment.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nishantshah977/plainsentiment/issues"
+  },
+  "homepage": "https://github.com/nishantshah977/plainsentiment#readme"
+}
